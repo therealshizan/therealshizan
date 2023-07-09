@@ -1,8 +1,5 @@
 <h2 style="display: flex;align-items:center; gap: 1rem;">
-	Hi There, Im Shizan
-	<span style="width:5rem;">
-	![](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
-	</span>
+	Hi There, Im Shizan 👋
 </h2>
 
 **Experienced Frontend Developer**.
