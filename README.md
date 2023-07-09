@@ -1,6 +1,6 @@
-<h2 style="display: flex;align-items:center; gap: 1rem;">
+<h1 style="display: flex;align-items:center; gap: 1rem; text-align: center;">
 	Hi There, Im Shizan 👋
-</h2>
+</h1>
 
 **Experienced Frontend Developer**.
 Courteous and enthusiastic.
